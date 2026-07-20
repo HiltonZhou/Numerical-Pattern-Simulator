@@ -1,0 +1,1 @@
+This project began as an object-oriented programming assignment and was later refactored independently to improve its design and modernize the implementation. The original version relied on raw pointers, while this version uses std::unique_ptr, implements copy/move semantics, and includes additional improvements to memory management and code organization.
