@@ -1,7 +1,3 @@
-// Hilton Zhou
-// 5/8/2026
-// Controller.cpp
-
 #include "Controller.h"
 #include "NumPattern.h"
 
